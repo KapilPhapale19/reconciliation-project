@@ -1,0 +1,7 @@
+transaction_id,issue
+T4,Missing Settlement
+T3,Duplicate Settlement
+T3,Rounding Issue
+T2,Late Settlement
+T4,Late Settlement
+T4,Orphan Refund

@@ -1,0 +1,6 @@
+settlement_id,transaction_id,amount,settlement_date
+S1,T1,100.0,2026-01-31
+S2,T2,200.0,2026-02-01
+S3,T3,150.01,2026-01-31
+S4,T3,150.01,2026-01-31
+S5,T5,250.0,2026-01-30
